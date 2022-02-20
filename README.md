@@ -4,7 +4,6 @@
 - 📫 How to reach me: https://haloapping.github.io/
 - 🎈 Posts: https://haloapping.github.io/kacangrebus/
 <br />
-<br />
 
 ## Activity on Github 🚀
 
