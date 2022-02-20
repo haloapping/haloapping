@@ -8,6 +8,6 @@
 [![haloapping GitHub stats](https://github-readme-stats.vercel.app/api?username=haloapping)](https://github.com/haloapping/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloapping&layout=compact)](https://github.com/haloapping/github-readme-stats)
 
-## Current Palylist in Spotify
+## Current Playlist in Spotify
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3val78q4l78f8loafsojf2snf&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=haloapping&unique={true|1|on|yes})
