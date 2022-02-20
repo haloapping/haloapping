@@ -10,4 +10,4 @@
 
 ## Current Playlist in Spotify
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=haloapping&unique={true|1|on|yes})
+[![haloapping-playlist](https://spotify-recently-played-readme.vercel.app/api?user=3val78q4l78f8loafsojf2snf&unique={true|1|on|yes})](https://open.spotify.com/user/haloapping)
