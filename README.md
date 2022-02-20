@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloapping&layout=compact)](https://github.com/haloapping/github-readme-stats)
 <br />
 
-## Daily Apps
+## Daily Apps 💻
 
 1. Browser: [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 2. Search Engine: [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
