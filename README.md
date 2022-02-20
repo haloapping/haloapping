@@ -4,7 +4,6 @@
 - 📫 How to reach me: https://haloapping.github.io/
 - 🎈 Posts: https://haloapping.github.io/kacangrebus/
 <br />
-
 ## Activity on Github 🚀
 
 [![haloapping GitHub stats](https://github-readme-stats.vercel.app/api?username=haloapping)](https://github.com/haloapping/github-readme-stats)
