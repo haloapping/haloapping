@@ -8,8 +8,8 @@
 
 ## Activity on Github 🚀
 
-![](https://github.com/haloapping/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/haloapping/github-stats/blob/master/generated/languages.svg)
+[![haloapping GitHub stats](https://github-readme-stats.vercel.app/api?username=haloapping)](https://github.com/haloapping/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloapping&layout=compact)](https://github.com/haloapping/github-readme-stats)
 <br />
 
 ## Daily Apps 💻
@@ -29,6 +29,6 @@
 13. Laptop Brands: [![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/id/)
     <br />
 
-## Recently Playlist in Spotify 🎧
+## Current Playlist in Spotify 🎧
 
 [![haloapping-playlist](https://spotify-recently-played-readme.vercel.app/api?user=3val78q4l78f8loafsojf2snf&unique={true|1|on|yes})](https://open.spotify.com/user/haloapping)
