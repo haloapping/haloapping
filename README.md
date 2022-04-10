@@ -25,10 +25,10 @@
 9. Music and Video Player: [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/)
 10. OS: [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 11. Social Media: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haloapping/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/haloapping) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6282130752220&text=&source=&data=&app_absent=) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/haloapping/?hl=id) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/haloapping/)
-12. Smartphone Brands: [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/global/)
-13. Laptop Brands: [![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/id/)
+12. Smartphone: [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/global/)
+13. Laptop: [![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/id/)
     <br />
 
-## Current Playlist in Spotify 🎧
+## Recent Playlist in Spotify 🎧
 
 [![haloapping-playlist](https://spotify-recently-played-readme.vercel.app/api?user=3val78q4l78f8loafsojf2snf&unique={true|1|on|yes})](https://open.spotify.com/user/haloapping)
