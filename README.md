@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python, Data Science, Machine Learning and Deep Learning.
 - 📫 How to reach me: https://haloapping.github.io/
-- 🎈 Posts: https://haloapping.github.io/
+- 🎈 Posts: https://haloapping.github.io/kacangrebus
 - 🥇 Kaggle Competition: https://www.kaggle.com/alfiyantokondolele/competitions?tab=active
 - 📗 #sharingtipistipis: https://haloapping-sharing-tipis-tipis-halo-halo-hxowpd.streamlitapp.com/
 
