@@ -28,7 +28,3 @@
 12. Smartphone: [![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.mi.com/global/)
 13. Laptop: [![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/id/)
     <br />
-
-## Recent Playlist in Spotify 🎧
-
-[![haloapping-playlist](https://spotify-recently-played-readme.vercel.app/api?user=3val78q4l78f8loafsojf2snf&unique={true|1|on|yes})](https://open.spotify.com/user/haloapping)
