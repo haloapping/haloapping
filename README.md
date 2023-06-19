@@ -13,6 +13,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloapping&layout=compact)](https://github.com/haloapping/github-readme-stats)
 <br />
 
+## LeetCode Progress 🤯
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/haloapping?ext=contest)
+
 ## Daily Apps 💻
 
 1. Browser: [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
