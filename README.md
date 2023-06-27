@@ -7,13 +7,13 @@
 - 📗 [#sharingtipistipis](https://haloapping-sharing-tipis-tipis-halo-halo-hxowpd.streamlitapp.com/)
 - 🤯 [LeetCode](https://leetcode.com/haloapping/)
 
-## Activity on Github 🚀
+## Github Stats 🚀
 
 [![haloapping GitHub stats](https://github-readme-stats.vercel.app/api?username=haloapping)](https://github.com/haloapping/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloapping&layout=compact)](https://github.com/haloapping/github-readme-stats)
 <br />
 
-## LeetCode Progress 🤯
+## LeetCode Stats 🤯
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/haloapping?ext=contest)
 
