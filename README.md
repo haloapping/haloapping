@@ -1,6 +1,6 @@
 # Hi👋, I'm [haloapping](haloapping.com)
 
-![My Face when confused](images/hehehe.png)
+![My Face when confused](images/apping.png)
 
 My personal webpage **_showcases projects, blog posts, and insights into my journey as a web developer_**. It's a space where I share my skills, learnings, and experiments with web technologies.
 
@@ -9,7 +9,7 @@ My personal webpage **_showcases projects, blog posts, and insights into my jour
 ## Links
 
 - [UI Design](https://www.figma.com/design/QXV60ahwwv6cszD10B5QCV/haloapping.com?node-id=0-1&t=7tL5BIBDNvpqwVDd-1)
-- [Github Repository](...)
+- [Github Repository](https://github.com/haloapping/haloapping.com)
 
 ## Tools
 
@@ -20,17 +20,21 @@ My personal webpage **_showcases projects, blog posts, and insights into my jour
 
 Inspired by [Tania Rascia's](https://www.taniarascia.com/) personal website.
 
-- Home
-    ![home-page](images/home-page.png)
+### Home
 
-- Portfolio
-    ![home-page](images/portfolio-page.png)
+![home-page](images/home-page.png)
 
-- About
-    ![home-page](images/about-page.png)
+### Portfolio
 
-- Contact
-    ![home-page](images/contact-page.png)
+![home-page](images/portfolio-page.png)
+
+### About
+
+![home-page](images/about-page.png)
+
+### Contact
+
+![home-page](images/contact-page.png)
 
 ## Social Media
 
