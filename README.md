@@ -1,6 +1,6 @@
 # Hi👋, I'm [haloapping](haloapping.com)
 
-![My Face when confused](images/apping.png)
+![My Face when confused](images/readme/apping.png)
 
 My personal webpage **_showcases projects, blog posts, and insights into my journey as a web developer_**. It's a space where I share my skills, learnings, and experiments with web technologies.
 
@@ -22,19 +22,19 @@ Inspired by [Tania Rascia's](https://www.taniarascia.com/) personal website.
 
 ### Home
 
-![home-page](images/home-page.png)
+![home-page](images/readme/home-page.png)
 
 ### Portfolio
 
-![home-page](images/portfolio-page.png)
+![home-page](images/readme/portfolio-page.png)
 
 ### About
 
-![home-page](images/about-page.png)
+![home-page](images/readme/about-page.png)
 
 ### Contact
 
-![home-page](images/contact-page.png)
+![home-page](images/readme/contact-page.png)
 
 ## Social Media
 
