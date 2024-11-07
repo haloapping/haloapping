@@ -38,26 +38,28 @@
             <h1>Contact</h1>
 
             <form action="" method="post">
-                <label for="name">Your name*</label>
-                <input type="text" required id="name" name="name" />
+                <div class="form-input">
+                    <label for="name">Your name*</label>
+                    <input type="text" required id="name" name="name" />
+                </div>
 
-                <br />
+                <div class="form-input">
+                    <label for="email">Your email address*</label>
+                    <input type="email" id="email" name="email" required />
+                </div>
 
-                <label for="email">Your email address*</label>
-                <input type="email" id="email" name="email" required />
-
-                <br />
-
-                <label for="project-desc">Tell me about your project*</label>
-                <textarea
-                    id="project-desc"
-                    name="project-desc"
-                    cols="30"
-                    rows="10"
-                    required
-                ></textarea>
-
-                <br />
+                <div class="form-input">
+                    <label for="project-desc">
+                        Tell me about your project*
+                    </label>
+                    <textarea
+                        id="project-desc"
+                        name="project-desc"
+                        cols="30"
+                        rows="10"
+                        required
+                    ></textarea>
+                </div>
 
                 <button type="submit">Submit</button>
             </form>
