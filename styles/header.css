@@ -1,0 +1,56 @@
+header {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #ffa0ef;
+  padding: 10px;
+  margin-bottom: 65px;
+}
+
+nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.logo img {
+  border-radius: 50%;
+}
+
+.logo a {
+  font-size: 26px;
+  color: #b81e79;
+  text-decoration: none;
+}
+
+.logo a:hover {
+  text-decoration: underline;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu ul {
+  display: flex;
+  gap: 72px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.menu a {
+  color: #b81e79;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
