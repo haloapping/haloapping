@@ -1,13 +1,7 @@
 @import url("reset.css");
 
-@font-face {
-  font-family: "Jakarta Sans";
-  src: url("/fonts/plus-jakarta-sans/PlusJakartaSans-VariableFont_wght.ttf")
-    format("ttf");
-}
-
 body {
-  font-family: "Jakarta Sans", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 main {
@@ -35,9 +29,19 @@ main h1 {
 }
 
 .text-desc p {
+  font-size: 30px;
+}
+
+.text-desc p {
   margin-bottom: 20px;
 }
 
 .images {
   width: 50%;
+}
+
+.images img {
+  margin-bottom: 20px;
+  width: 80%;
+  border-radius: 10px;
 }

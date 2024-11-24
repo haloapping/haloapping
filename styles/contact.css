@@ -1,17 +1,49 @@
 @import url("reset.css");
 
-@font-face {
-  font-family: "Jakarta Sans";
-  src: url("/fonts/plus-jakarta-sans/PlusJakartaSans-VariableFont_wght.ttf")
-    format("ttf");
-}
-
 body {
-  font-family: "Jakarta Sans", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 main {
   display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+}
+
+main h1 {
+  color: #b81e79;
+  font-size: 64px;
+}
+
+.form-contact {
+  display: flex;
+  justify-content: center;
   flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.input {
+  border: 1px solid #b81e79;
+  border-radius: 5px;
+}
+
+.btn-submit {
+  border: 1px solid #b81e79;
+  border-radius: 5px;
+}
+
+.required-symbol {
+  color: red;
 }
