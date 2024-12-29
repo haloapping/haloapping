@@ -8,8 +8,7 @@ My personal webpage **_showcases projects, blog posts, and insights into my jour
 
 ## Links
 
-- [UI Design](https://www.figma.com/design/QXV60ahwwv6cszD10B5QCV/haloapping.com?node-id=0-1&t=7tL5BIBDNvpqwVDd-1)
-- [Github Repository](https://github.com/haloapping/haloapping.com)
+- [Github Repository](https://github.com/haloapping/haloapping)
 
 ## Tools
 

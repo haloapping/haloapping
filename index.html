@@ -5,13 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="haloapping personal website" />
     <link rel="icon" href="images/page/logo.png" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style/index.css" />
     <title>Home</title>
   </head>
 
@@ -19,16 +13,16 @@
     <header class="container">
       <nav>
         <div class="left-side">
-          <img src="images/page/logo.png" width="32" alt="logo image" />
-          <h1>haloapping</h1>
+          <a href="/"><img src="images/page/logo.png" width="32" alt="logo image" /></a>
+          <a href="/"><h1>haloapping</h1></a>
         </div>
         <div class="right-side">
           <img id="menu-icon" src="images/page/list.svg" alt="" />
           <ul id="list-menu" class="nav__list-menu" style="display: none">
-            <li><a href="/">Home</a></li>
-            <li><a href="portfolio">Portfolio</a></li>
-            <li><a href="about">About</a></li>
-            <li><a href="contact">Contact</a></li>
+            <li><a href="/" class="menu-active">Home</a></li>
+            <li><a href="/portfolio">Portfolio</a></li>
+            <li><a href="/about-me">About Me</a></li>
+            <li><a href="/contact">Contact</a></li>
           </ul>
         </div>
       </nav>
@@ -37,25 +31,36 @@
     <div class="divide-horizontal-line"></div>
 
     <main class="container">
-      <h1>Halo, I'm Apping</h1>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem accusantium voluptatum architecto
-        neque ratione in ab, suscipit a voluptate totam.
-      </p>
+      <h1><span class="nick-name">Halo</span> 👋, I'm <span class="nick-name">Apping</span></h1>
+
+      <div class="img-profile">
+        <img src="/images/page/apping.jpeg" alt="Apping Photo Profile" />
+      </div>
 
       <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum nobis et consectetur optio autem ipsam
-        quae, distinctio ex labore quibusdam? Dolores temporibus nesciunt obcaecati ab?
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis alias suscipit nisi, illum dolorum
-        voluptate odit libero perferendis nulla cum sunt mollitia aliquam quod? Omnis porro a iste beatae
-        enim.
+        I'm a web developer who thrives on building intuitive and impactful web experiences. Combining
+        technical expertise with a creative approach, I work across the development stack to deliver seamless,
+        responsive, and accessible websites. I'm dedicated to continuous improvement and love exploring new
+        technologies to stay at the forefront of the web development world.
       </p>
     </main>
 
-    <footer></footer>
+    <div class="divide-horizontal-line"></div>
+
+    <footer class="container">
+      <div class="social-media">
+        <a href="https://www.linkedin.com/in/haloapping/" target="_blank">
+          <img src="images/page/social-media/linkedin.svg" alt="Linkedin Logo" />
+        </a>
+        <a href="https://github.com/haloapping" target="_blank">
+          <img src="images/page/social-media/github.svg" alt="GitHub Logo" />
+        </a>
+        <a href="https://x.com/haloapping" target="_blank">
+          <img src="images/page/social-media/x.svg" alt="X Logo" />
+        </a>
+      </div>
+      <p>Made with ❤️ by <a href="https://haloapping.com/" target="_blank">haloapping</a></p>
+    </footer>
 
     <script src="script.js"></script>
   </body>
